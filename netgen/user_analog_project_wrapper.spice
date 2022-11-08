@@ -493,7 +493,7 @@ XESD_CLAMP_2 partitions5_individual_for_Symbol_0/VB0_9 vssa1 gpio_analog[5] vccd
 XESD_CLAMP_4 io_analog[4] vssa1 partitions5_individual_for_Symbol_0/VB0_75 vccd1 ESD_CLAMP
 XESD_CLAMP_3 partitions5_individual_for_Symbol_0/VB0_6 vssa1 gpio_analog[6] vccd1
 + ESD_CLAMP
-xselect_wrapper select_wrapper
+xselect_wrapper vssd2 vccd2 select_wrapper
 Xsky130_fd_pr__diode_pw2nd_05v5_AANSQ9_0 vssa1 io_analog[1] sky130_fd_pr__diode_pw2nd_05v5_AANSQ9
 Xsky130_fd_pr__cap_mim_m3_2_WXTTNJ_0 vccd1 vssa1 sky130_fd_pr__cap_mim_m3_2_WXTTNJ
 Xsky130_fd_pr__cap_mim_m3_2_WXTTNJ_1 vccd1 vssa1 sky130_fd_pr__cap_mim_m3_2_WXTTNJ
