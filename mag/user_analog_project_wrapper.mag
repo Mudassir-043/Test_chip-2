@@ -1,7 +1,14 @@
 magic
 tech sky130B
 magscale 1 2
-timestamp 1667654916
+timestamp 1667816074
+<< checkpaint >>
+rect 64976 496537 469572 496541
+rect 64976 94161 486244 496537
+rect 81648 94157 486244 94161
+<< error_s >>
+rect 481361 473257 481395 473291
+rect 481085 473189 481119 473223
 << pwell >>
 rect 487850 611034 487922 611742
 << locali >>
@@ -1623,6 +1630,10 @@ use partitions5_individual_for_Symbol  partitions5_individual_for_Symbol_0
 timestamp 1667544480
 transform 0 1 464562 -1 0 625882
 box 2149 6246 28704 28952
+use select_wrapper  select_wrapper_0
+timestamp 1667816074
+transform 1 0 67312 0 1 95436
+box -1076 -4 401000 399844
 use sky130_fd_pr__cap_mim_m3_2_LJ5JLG  sky130_fd_pr__cap_mim_m3_2_LJ5JLG_0
 timestamp 1667654322
 transform 0 -1 491575 1 0 644503
