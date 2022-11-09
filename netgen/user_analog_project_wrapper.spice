@@ -469,7 +469,7 @@ Xpartitions5_individual_for_Symbol_0 io_analog[3] partitions5_individual_for_Sym
 + li_488580_611700# li_488580_611700# partitions5_individual_for_Symbol
 XBGR_TOP_flatten_0 io_analog[7] io_analog[6] io_analog[9] io_analog[8] io_analog[6]
 + vdda2 vssa1 BGR_TOP_flatten
-Xselect_wrapper io_out[14] io_in[15] select_wrapper
+Xselect_wrapper io_out[14] io_in[15] io_in[23] select_wrapper
 Xsky130_fd_pr__diode_pw2nd_05v5_3BR9Y2_0 vssa1 io_analog[10] sky130_fd_pr__diode_pw2nd_05v5_3BR9Y2
 XESD_CLAMP_0 partitions5_individual_for_Symbol_0/VB1_4 vssa1 vssa1 io_analog[2] vccd1
 + ESD_CLAMP
